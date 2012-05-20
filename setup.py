@@ -23,6 +23,6 @@ setup(name='psusymp.traversingdjango',
       zip_safe=False,
       install_requires=[
           'setuptools',
-          'Django'
+          'Django==1.4'
       ]
 )
